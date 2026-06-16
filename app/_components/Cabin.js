@@ -12,7 +12,7 @@ export default function Cabin({cabin}) {
         </div>
 
         <div className=" col-span-full md:col-span-1 o">
-          <h3 className="text-accent-100 font-black text-7xl mb-5 md:translate-x-[-254px] bg-primary-950 p-6 pb-1 w-[150%]">
+          <h3 className="text-accent-100 font-black md:text-7xl text-2xl -translate-y-7 md:translate-y-0 mb-5 md:translate-x-[-254px] bg-primary-950 p-6 pb-1 w-[150%]">
             Cabin {name}
           </h3>
 
