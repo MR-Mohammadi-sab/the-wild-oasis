@@ -1,26 +1,26 @@
 # 🌿 The Wild Oasis
 
-A modern hotel/cabin management web application built with **Next.js**, designed for managing bookings, guests, cabins, and reservations in a clean and user-friendly way.
+A modern hotel/room management web application built with **Next.js** and **React.js**, designed for managing bookings, guests, rooms, and reservations in a clean and user-friendly way.
 
 ---
 
 ## 🚀 Live Demo
 
-https://your-live-link.com
+https://the-wild-oasis-ten-kappa.vercel.app/
 
 ---
 
 ## 📸 Preview
 
-_Add screenshots of your project here_
+![image](./public/p.png)
 
 ---
 
 ## 🧠 About the Project
 
-The Wild Oasis is a full-stack hotel management system where users can:
+The Wild Oasis is a full-stack web application users can:
 
-- Browse available cabins
+- Browse available rooms
 - Make reservations
 - View booking history
 - Manage their profile
