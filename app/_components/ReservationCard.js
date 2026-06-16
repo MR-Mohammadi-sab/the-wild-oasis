@@ -24,7 +24,7 @@ function ReservationCard({ booking ,onDelete}) {
   } = booking;
 
   return (
-    <li className='flex flex-col lg:flex-row border border-primary-800'>
+    <li className='flex flex-col gap-4 md:gap-0 lg:flex-row border border-primary-800'>
       <div className='relative h-32 aspect-square'>
         <Image
           src={image}
